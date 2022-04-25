@@ -40,10 +40,3 @@ Read more:
 
 [Transit](doc/transit.md)
 
-## License
-
-Copyright © 2019–2022 Mike Fikes
-
-Distributed under the EPL License, same as Clojure. See LICENSE.
-
-The namespace `cljs-bean.from.cljs.core` contains source from [`ClojureScript`](https://github.com/clojure/clojurescript) which is licensed under the EPL license.
